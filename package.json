@@ -1,0 +1,25 @@
+{
+  "name": "projeto-node",
+  "version": "1.0.0",
+  "description": "projeto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-handlebers",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "Leandro Mohr",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.1",
+    "express-handlebars": "^8.0.3",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
